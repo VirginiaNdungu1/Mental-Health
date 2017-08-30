@@ -99,3 +99,50 @@ body {
   width: 100%;
   height: 120%;
 }
+
+.flex-container {
+  display: -webkit-flex;
+  display: flex;
+  width: 90%;
+  height: 100%;
+  margin-left: 10%;
+  /*background-color: lightgrey;*/
+}
+
+.flex-item {
+  /*background-color: cornflowerblue;*/
+  width: 50%;
+  height: 70%;
+  margin: 0px
+}
+
+
+/*.blogs-page {
+  float: left;
+  width: 23%;
+  margin-right: 5%;
+}
+
+.blogs-page img {
+  width: 100%;
+  height: 90%;
+  float: right;
+}
+
+.blogs-page figure {
+  display: block;
+  margin: 0px;
+  border: 2px solid #ddd;
+  min-height: 500px;
+  float: left;
+}
+
+.blogs-page .blog-content {
+  text-align: center;
+  float: right;
+}*/
+
+
+/*.blogs-page .content {
+  text-align: center;
+}*/
