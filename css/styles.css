@@ -87,3 +87,21 @@
   font-size: 16px;
 }
 /*navbar end*/
+/*contact bar*/
+.contact-bar{
+  background-color: #3596e0;
+  text-align: center;
+  margin-left: -9%;
+  margin-right: -9%;
+  color: white;
+}
+
+.contact-bar p {
+  color: white;  
+  margin-top: 30px;
+  margin-bottom: 0px;
+}
+
+.contact-bar img {
+  padding: 10px;
+}
