@@ -1,0 +1,39 @@
+div {
+  display: block;
+}
+
+figure {
+  display: block;
+  margin: 0px;
+  border: 2px solid #ddd;
+  min-height: 500px;
+}
+
+figcaption {
+  text-align: center;
+}
+
+.content {
+  background-color: white;
+  display: inline-block;
+}
+
+body {
+  color: #31708f;
+}
+
+.heading1 {
+  text-align: center;
+}
+
+.about-Health {
+  margin-left: 10.5%;
+  float: left;
+  width: 23%;
+  margin-right: 5%;
+}
+
+.about-Health img {
+  width: 80%;
+  height: 100%;
+}
