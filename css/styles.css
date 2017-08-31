@@ -100,12 +100,42 @@ body {
   height: 120%;
 }
 
+.wrap {
+  margin-left: 10%;
+}
+
+.wrap {
+  margin-left: 10%;
+}
+
+.healthTips p {
+  text-align: left;
+  font-size: 15px;
+  margin-left: 5%
+}
+
+
+/*.healthTips p ul {
+  text-align: left;
+  margin-left: 30%;
+}*/
+
+.good-health-title {
+  margin-top: 2%;
+  margin-bottom: 5%;
+}
+
+button {
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
 .flex-container {
   display: -webkit-flex;
   display: flex;
   width: 90%;
   height: 100%;
-  margin-left: 10%;
+  margin-left: 0%;
   /*background-color: lightgrey;*/
 }
 
