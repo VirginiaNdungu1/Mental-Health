@@ -109,6 +109,23 @@ body {
   margin-left: 10%;
 }
 
+.healthIntro {
+  background-image: url("../assets/Good Mental Health/mentalWellnesslogo.jpg");
+  background-size: 1058px 500px;
+  background-repeat: no-repeat;
+  padding-bottom: 500px;
+  padding-right: 1058px;
+  margin-left: 3%;
+  /*height: 500;
+  width: 1058;*/
+}
+
+.healthIntro p {
+  margin-left: 40%;
+  padding-top: 50%;
+  font-size: 18px;
+}
+
 .healthTips p {
   /*text-align: left;*/
   font-size: 16px;
@@ -134,8 +151,8 @@ body {
 button {
   margin-top: 2%;
   margin-bottom: 2%;
-  width: 50%;
-  margin-left: 5%;
+  width: 40%;
+  margin-left: 3%;
   background-color: #20687A;
   color: white;
 }
@@ -143,7 +160,7 @@ button {
 .flex-container {
   display: -webkit-flex;
   display: flex;
-  width: 70%;
+  width: 80%;
   height: 100%;
   margin-left: 0%;
   margin-bottom: 5%;
