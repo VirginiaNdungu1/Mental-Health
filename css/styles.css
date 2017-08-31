@@ -1,0 +1,27 @@
+.wrap {
+  margin-left: 10%;
+}
+
+button {
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+.flex-container {
+  display: -webkit-flex;
+  display: flex;
+  width: 180%;
+  height: 100%;
+  margin-left: 0%;
+  /*background-color: lightgrey;*/
+}
+
+.flex-item {
+  /*background-color: cornflowerblue;*/
+  width: 50%;
+  height: 70%;
+  margin: 0px
+}
+.listnumber{
+  list-style: none;
+}
