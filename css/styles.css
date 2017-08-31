@@ -19,7 +19,7 @@ figcaption {
 }
 
 body {
-  color: #31708f;
+  color: #154360
 }
 
 .heading1 {
@@ -27,7 +27,7 @@ body {
 }
 
 .about-Health {
-  margin-left: 10.5%;
+  /*margin-left: 10.5%;*/
   float: left;
   width: 23%;
   margin-right: 5%;
@@ -67,7 +67,7 @@ body {
 }
 
 .find-treatment {
-  margin-left: 10.5%;
+  /*margin-left: 10.5%;*/
   float: left;
   width: 23%;
   margin-right: 5%;
@@ -100,17 +100,18 @@ body {
   height: 120%;
 }
 
-.wrap {
+
+/*.wrap {
   margin-left: 10%;
-}
+}*/
 
 .wrap {
-  margin-left: 10%;
+  margin-left: 15%;
 }
 
 .healthTips p {
-  text-align: left;
-  font-size: 15px;
+  /*text-align: left;*/
+  font-size: 20px;
   margin-left: 5%
 }
 
@@ -128,6 +129,7 @@ body {
 button {
   margin-top: 2%;
   margin-bottom: 2%;
+  width: 50%;
 }
 
 .flex-container {
@@ -136,7 +138,9 @@ button {
   width: 90%;
   height: 100%;
   margin-left: 0%;
-  /*background-color: lightgrey;*/
+  margin-bottom: 15%;
+  box-shadow: 1em 1em 1em 1em #ddd;
+  /*background-color: #EBEDEF;*/
 }
 
 .flex-item {
