@@ -115,7 +115,7 @@ body {
   background-repeat: no-repeat;
   padding-bottom: 500px;
   padding-right: 1058px;
-  margin-left: 3%;
+  margin: 3%;
   /*height: 500;
   width: 1058;*/
 }
@@ -123,7 +123,7 @@ body {
 .healthIntro p {
   margin-left: 40%;
   padding-top: 50%;
-  font-size: 18px;
+  font-size: 20px;
 }
 
 .healthTips p {
@@ -149,7 +149,7 @@ body {
 }
 
 button {
-  margin-top: 2%;
+  /*margin-top: 2%;*/
   margin-bottom: 2%;
   width: 40%;
   margin-left: 3%;
