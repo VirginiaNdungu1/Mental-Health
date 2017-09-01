@@ -178,6 +178,22 @@ button {
   margin-left: 5%;
 }
 
+.treatmentIntro {
+  background-image: url("../assets/Find Treatment/findTreatmentlogo1.jpg");
+  background-size: 1058px 500px;
+  background-repeat: no-repeat;
+  padding-bottom: 500px;
+  padding-right: 1058px;
+  margin: 3%;
+  opacity: 0.8;
+}
+
+.treatmentIntro p {
+  margin-left: 40%;
+  padding-top: 50%;
+  font-size: 20px;
+}
+
 
 /*.blogs-page {
   float: left;
