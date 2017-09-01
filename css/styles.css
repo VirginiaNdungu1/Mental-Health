@@ -144,8 +144,10 @@ body {
 
 .good-health h1 {
   margin-top: 2%;
-  margin-bottom: 5%;
-  text-align: center;
+  padding-top: 1%;
+  margin-bottom: 2%;
+  text-align: left;
+  margin-left: 3%;
 }
 
 button {
@@ -325,4 +327,19 @@ button {
 
 .contact-bar img {
   padding: 10px;
+}
+
+.blogIntro {
+  background-image: url("../assets/Blogs/blogsLogo.jpg");
+  background-size: 1058px 500px;
+  background-repeat: no-repeat;
+  padding-bottom: 500px;
+  padding-right: 1058px;
+  margin: 3%;
+  /*height: 500;
+  width: 1058;*/
+}
+
+#mentalHealthBlog img {
+  margin-left: 3%;
 }
